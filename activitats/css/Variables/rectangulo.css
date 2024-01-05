@@ -1,6 +1,6 @@
 .rectangulo {
-    width: 150px;           /* Ancho de 150 píxeles */
-    height: 150px;          /* Alto de 150 píxeles */
-    background: red;        /* Fondo de color rojo */
+    width: 150px;           
+    height: 150px;          
+    background: red;        
     border: 1px solid #000; 
 }
