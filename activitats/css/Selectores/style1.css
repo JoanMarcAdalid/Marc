@@ -5,3 +5,8 @@
     #teide {
         color: burlywood;
     }
+    p {
+        font-size: 4rem;
+        border: 3px solid black;
+    }
+    
