@@ -1,11 +1,16 @@
 header{
     padding: 60px;
     text-align: center;
+    background-image:url(usa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header div{
 
-    background-color: rgba(rgb(0, 0, 0), rgb(0, 0, 0), rgba(0, 0, 0, 0), alpha(0,7)) ;
-
-
+    background-color: rgba(rgb(0, 0, 0), rgb(0, 0, 0), rgba(0, 0, 0, 0), alpha(0.7)) ;
+padding: 10px;
+border-radius: 10px;
+color: bisque;
+font-size: 20px;
 }
