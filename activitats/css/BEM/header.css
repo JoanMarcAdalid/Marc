@@ -5,7 +5,7 @@ header{
 
 header div{
 
-    background-color: rgba(rgb(15, 15, 15), rgb(17, 17, 17), rgba(15, 15, 15, 0.932), alpha) ;
+    background-color: rgba(rgb(0, 0, 0), rgb(0, 0, 0), rgba(0, 0, 0, 0), alpha(0,7)) ;
 
 
 }
