@@ -1,0 +1,18 @@
+.body2{
+    font-size: medium;
+font-style: oblique;
+font-weight: bolder;
+color: rgb(37, 141, 106);
+}
+header{
+    font-size: large;
+    font-style: inherit;
+    font-weight: lighter;
+    color: cornflowerblue;
+}
+.pr1{
+    font-size: small;
+    font-style: italic;
+    font-weight: bold;
+    color: chocolate;
+}
