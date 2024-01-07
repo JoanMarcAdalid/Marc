@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "lato";
+    src: url(fuentes/Lato-Bold.ttf);
+    font-style: bold;
+    font-weight: bold;
+}
+.wr1{
+    font-family: "lato";
+}
+@font-face {
+    font-family:"Bungee_Spice" ;
+    src: url(fuentes/Bungee_Spice/BungeeSpice-Regular.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+.zr1{
+    font-family: "Bungee_Spice" ;
+}

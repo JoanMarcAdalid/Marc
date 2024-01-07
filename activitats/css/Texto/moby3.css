@@ -1,0 +1,10 @@
+nav :hover{
+    color: blue;
+    font-style: italic;
+}
+
+div :hover{
+    color: red;
+    font-style: inherit;
+}
+    
