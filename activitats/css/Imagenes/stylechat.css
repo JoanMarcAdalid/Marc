@@ -1,0 +1,33 @@
+.p1{
+background-color: grey;
+margin-right: 280px;
+
+}
+
+.p2{
+background-color: deepskyblue;
+margin-left: 200px;
+}
+.img{
+    border-radius: 100%;
+    
+}
+
+.body{
+    background-color: bisque;
+}
+
+.m1{
+   margin-left: 40px;
+   margin-top: 30px;
+   
+}
+
+.c1{
+    text-align: left;
+}
+.c8{
+    background-color: grey;
+    margin-right:  100px;
+    
+}
