@@ -1,3 +1,37 @@
 .r1{
     background-color: aquamarine;
+    display: flex; justify-content: center;
+    max-width: 500px;
 }
+.t2{
+    font-size: xx-large;
+    display: flex; justify-content: center;
+    margin-right: 300px;
+}
+.S1{
+    display: flex; justify-content: center;
+    margin-right: 100px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 370px;
+  }
+  
+ 
+ 
+
+E1{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+.r2{
+    margin-left: 700px;
+}
+
+
+
