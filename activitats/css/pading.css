@@ -1,0 +1,36 @@
+.f1{
+text-align: center;
+background-color: lightblue;
+}
+.c1{
+    background-color: blanchedalmond;
+    
+}
+.boton1{
+    margin: 60px;
+    background-color: dodgerblue;
+    font-size: larger;
+    color: aliceblue;
+    
+}
+.boton2{
+    color:rgb(36, 184, 36) ;
+    font: inherit;
+    margin-left: 700px;
+    margin-top: -80px;
+
+}
+
+.hh1{
+    margin-left: 560px;
+}
+.p3{
+    margin-left: 560px;
+}
+.t1{
+    margin-left: 900px; 
+    margin-top: -900px;
+}
+.z1{
+    margin-left: 500px;
+}
