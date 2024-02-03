@@ -1,0 +1,31 @@
+.p1{
+    
+    border-color: solid black;
+    a:hover {
+        color: orange;
+      }
+    text-align: center;
+    background-color: cadetblue;
+    color: aliceblue;
+    list-style: none;
+   
+}
+.p2{
+   
+   
+    text-align: center;
+    background-color: cadetblue;
+    color: aliceblue;
+    margin-top: -35px;
+}
+.p3{
+    
+    
+    text-align: center;
+    background-color: cadetblue;
+    color: aliceblue;
+    margin-top: -35px;
+}
+.a:hover {
+    color: orange;
+  }
