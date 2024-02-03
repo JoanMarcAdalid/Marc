@@ -1,0 +1,36 @@
+
+
+
+
+.tr2{
+    font-size: small;
+    font-style: italic;
+   
+    }
+.tr1{
+    font-style: italic;
+    font-size: small;
+}
+.t299{
+    font-size: larger;
+
+}
+.tr3{
+    color: rgb(54, 104, 196);
+}
+.tr4{
+    background-color: blue;
+    color: aliceblue;
+}
+.tr5{
+    font-size: small;
+    font-style: italic;
+}
+.tf{
+    color: blue;
+}
+.check{
+    background-color: blue;
+}
+
+.table { border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
