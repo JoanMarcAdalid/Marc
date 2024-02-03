@@ -2,11 +2,13 @@
     padding: 2rem;
     border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;
     margin-bottom: -16px;
+   
 
 }
-.p2{padding: 3rem;
+.p2{padding: 5rem;
     border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;
-    margin-bottom: -16px;
+    margin-bottom: -36px;
+    text-size-adjust: 10px;
 }
 .p3{
     padding: 3rem;
@@ -18,3 +20,9 @@
     border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;
     margin-top: -16px;  
 }
+ .d1{
+    text-align: center;
+    padding: 4rem;
+    border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;
+    margin-bottom: -16px;
+ }
