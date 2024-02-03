@@ -1,0 +1,20 @@
+.p1{
+    padding: 2rem;
+    border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;
+    margin-bottom: -16px;
+
+}
+.p2{padding: 3rem;
+    border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;
+    margin-bottom: -16px;
+}
+.p3{
+    padding: 3rem;
+    border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;
+  
+}
+.p4{
+    padding: 2rem;
+    border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;
+    margin-top: -16px;  
+}
