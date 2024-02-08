@@ -8,12 +8,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    animation-direction: reverse;
+    background-color: red;
+    
+    
    }
    
 
-   .circulo2{
-    border: solid rgb(47, 0, 255) 1px;
+   span{
+    border: solid rgb(47, 0, 255, 128) 1px;
     border-radius: 50%;
     position: relative;
     width: 50px;
@@ -23,5 +25,10 @@
     align-items: center;
     margin-top: -50px;
     margin-left: 80px;
-    animation-direction: reverse;
+   background-color: blue;
+    
+}
+
+.a:hover{
+    transform: translateX(-80px);
 }
