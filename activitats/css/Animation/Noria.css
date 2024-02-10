@@ -1,0 +1,25 @@
+
+
+  
+
+
+@keyframes animacion-rotacion {
+    from {
+      transform: rotate(0deg);
+    }
+  
+    to {
+      transform: rotate(20deg);
+    }
+  }
+  
+  img{
+    
+    margin-left: 350px;
+    
+    margin-top: 150px;
+    animation-name: animacion-rotacion;
+    animation-duration: 10s;
+    animation-timing-function:ease-in-out;
+    animation-iteration-count: infinite;
+  }
