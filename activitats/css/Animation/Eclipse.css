@@ -1,0 +1,43 @@
+
+
+.circulo{
+   
+    border: solid rgb(47, 0, 265, 128) 1px;
+    border-radius: 50%;
+    position: relative;
+    width: 150px;
+    height:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -150PX;
+    margin-left: 800px;
+   background-color: rgb(181, 181, 230);
+}
+
+
+
+.a:hover{
+    transform: translateX(480px);
+}
+
+
+
+
+
+
+span{
+    
+   border: solid rgb(255, 238, 0) 1px;
+    border-radius: 50%;
+    position: relative;
+    width: 150px;
+    height:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 208, 0);
+    margin-left: 320px;
+    margin-top: 350px;
+    
+}
