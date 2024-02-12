@@ -1,0 +1,21 @@
+body{
+    color: seagreen;
+    background-color: silver;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    text-align: right;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+h2{
+    text-align: right;
+    margin-top: 100px;
+    margin-right: 100px;
+    
+}
+img{
+    margin-top: -150px;
+    margin-left: 100px;
+}
