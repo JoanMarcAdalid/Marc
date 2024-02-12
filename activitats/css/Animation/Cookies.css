@@ -1,0 +1,9 @@
+img:hover
+    {
+        animation: fadein 5s;
+     }
+
+     @keyframes fadein {
+        0% {opacity: 1;}
+        100% {opacity: 0;}
+}
